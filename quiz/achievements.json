@@ -1,0 +1,29 @@
+
+
+{
+    "1234567890": {
+        "name": "Usuario1",
+        "achievements": [
+            {
+                "date": "2024-07-07",
+                "scores": [3, 4, 5],
+                "total_attempts": 3
+            },
+            {
+                "date": "2024-07-06",
+                "scores": [2],
+                "total_attempts": 1
+            }
+        ]
+    },
+    "9876543210": {
+        "name": "Usuario2",
+        "achievements": [
+            {
+                "date": "2024-07-06",
+                "scores": [2, 3],
+                "total_attempts": 2
+            }
+        ]
+    }
+}
